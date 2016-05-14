@@ -30,8 +30,7 @@ def main(url, writer):
     r = urllib.urlopen(url).read()
     soup = BeautifulSoup(r, "html.parser")
     tables = soup.find_all('table')
-    print "Number of tables: %s" % (len(tables),)
-    res = []
+    print "Number of tables: {}".format(len(tables))
     header = None
     for table in tables:
         tbody = table.find('tbody')
