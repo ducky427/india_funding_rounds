@@ -5,12 +5,14 @@ This repo contains a database for all the funding rounds of startups in India si
 
 See the full database [here](https://github.com/ducky427/india_funding_rounds/blob/master/funding.csv).
 
+Pull Requests welcome!
+
 Basic Statistics
 -----------------
 
 Top 3 cities by funding amounts raised as a percentage of total amount raised:
 
-| Place      | Amount |
+| Place     | Amount |
 | --------- | ------ |
 | NCR       | 35.29% |
 | Bengaluru | 32.80% |
