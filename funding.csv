@@ -7,8 +7,7 @@ Date,Startup Name,Vertical,Sub-Vertical,City,Investor,Type,Amount (in USD),Remar
 06/01/2015,Near.in,,,,"Anupam Mittal, Manish Vij, Prashant Tandon, Gaurav Agarwal, Akash Agarwal, Himanshu Aggarwal, Kevin Parikh",Seed Funding,"285,000",
 06/01/2015,Purplle.com,,,,IvyCap Ventures,Private Equity,N/A,
 06/01/2015,NumberMall,,,,SRI Capital,Private Equity,"10,000,000",
-06/01/2015,Tookitaki,,,,"Jungle Ventures, Redbright Partners, Blume Ventures","Private
-Equity","1,000,000",
+06/01/2015,Tookitaki,,,,"Jungle Ventures, Redbright Partners, Blume Ventures","PrivateEquity","1,000,000",
 06/01/2015,Frankly,,,,Matrix Partners,Seed Funding,"600,000",
 07/01/2015,Faircent,,,,"Devesh Sachdev, Ashish Tiwari",Seed Funding,N/A,Valuation at $4M
 07/01/2015,Nurturey,,,,Seedrs Crowd funding platform,Crowd funding,"125,000",
@@ -100,8 +99,7 @@ Equity","1,000,000",
 23/02/2015,Trip38,,,,"InterGlobe Technology Quotient, Lantern Capital",Private Equity,"1,000,000",Series A
 23/02/2015,Smartairtrip.com,,,,Undisclosed,Private Equity,"10,000,000",Series A
 23/02/2015,NoBroker,,,,"SAIF Partners, Fulcrum Ventures",Private Equity,"3,000,000",Series A
-24/02/2015,Caravan Craft Retail,,,,"Unitus Seed Fund
-Narayan Ramachandran, Bijou Kurien",Seed Funding,"500,000",
+24/02/2015,Caravan Craft Retail,,,,"Unitus Seed FundNarayan Ramachandran, Bijou Kurien",Seed Funding,"500,000",
 25/02/2015,SquadRun,,,,"Amit Ranjan, Deepinder Goyal, Zishaan Hayath, Powai Lake Ventures",Seed Funding,N/A,
 25/02/2015,Clonect Solutions,,,,"V Balakrishnan, T V Mohandas Pai, BC Prabhakar",Seed Funding,"250,000",
 25/02/2015,TaxSutra,,,,"V Balakrishnan, T V Mohandas Pai",Seed Funding,"160,000",
@@ -183,12 +181,10 @@ Narayan Ramachandran, Bijou Kurien",Seed Funding,"500,000",
 08/04/2015,FirstCry.com,eCommerce,,Pune,"Silicon Valley Ventures, NEA Ventures, Valiant Capital, IDG Ventures India, SAIF Partners, Vertex Ventures",Private Equity,"10,000,000","Series D ( In Feb it was announced they raised 26M, but it is 36M, so added here)"
 08/04/2015,MobiKwik,Digital / Mobile Wallet,,Gurgaon,"Tree Line Asia, Cisco Investments, American Express, Sequoia Capital",Private Equity,"25,000,000",Series B
 08/04/2015,Olacabs,Cab Aggregator,,Bangalore,"DST Global, Steadview Capital, Tiger Global, Accel Partners & Others",Private Equity,"400,000,000",Series E (Updated from 315M to 400M after Press Release)
-09/04/2015,Gadgetwood,Device Repair Svcs,,New Delhi,"Ajai Chowdhry, Ashvin Chadha, Yogesh Bansal,
-Nitin Singhal & Others",Seed Funding,"200,000",
+09/04/2015,Gadgetwood,Device Repair Svcs,,New Delhi,"Ajai Chowdhry, Ashvin Chadha, Yogesh Bansal,Nitin Singhal & Others",Seed Funding,"200,000",
 09/04/2015,Bonhomia,Premium Beverages,,New Delhi,"Kanwaljit Singh, Shripad Nadkarni, Sarvesh Shahra & Others",Seed Funding,"2,000,000",
 09/04/2015,Changer Mints,Digital / Mobile Wallet,,Kolkata,Hyderabad based investor,Seed Funding,"165,000",
-09/04/2015,Urban Ladder,"Online Furnishing
-eCommerce",,Bangalore,"Sequoia Capital, TR Capital, Steadview Capital, SAIF Partners, Kalaari Capital",Private Equity,"50,000,000",Series C
+09/04/2015,Urban Ladder,"Online FurnishingeCommerce",,Bangalore,"Sequoia Capital, TR Capital, Steadview Capital, SAIF Partners, Kalaari Capital",Private Equity,"50,000,000",Series C
 09/04/2015,Purple Squirrel,Ed-Tech,,Mumbai,"Matrix Partners India, India Quotient",Private Equity,N/A,Series B
 10/04/2015,Whatfix,Interactive How-To Guides,,Bangalore,"Helion Venture Partner, Powerhouse Ventures, GSF and Other angel investors",Seed Funding,"900,000",
 10/04/2015,iMMi Life,Mobile Health Tech,,Chennai,Unitus Seed Fund,Seed Funding,N/A,
@@ -203,8 +199,7 @@ eCommerce",,Bangalore,"Sequoia Capital, TR Capital, Steadview Capital, SAIF Part
 15/04/2015,PepperTap,Hyper-Local Online/Mobile Grocery,,Gurgaon,"SAIF Partners, Sequoia Capital",Private Equity,"10,000,000",Series A
 15/04/2015,PolicyBazaar,Online Policy Aggregator,,Gurgaon,"PremjiInvest, Tiger Global, Ribbit Capital",Private Equity,"40,000,000",Series D
 16/04/2015,UrbanClap,Hyperlocal Mobile Services Marketplace,,New Delhi,"SAIF Partners, Accel Partners, Kunal Bahl, Rohit Bansal",Seed Funding,"1,600,000",
-16/04/2015,Taskbob,"OnDemand
-Mobile Handyman Services",,Mumbai,"Orios Venture Partners, Mayfield India",Seed Funding,"1,200,000",
+16/04/2015,Taskbob,"OnDemandMobile Handyman Services",,Mumbai,"Orios Venture Partners, Mayfield India",Seed Funding,"1,200,000",
 17/04/2015,Robosoft,Mobile App Development,,Udupi,"Ascent Capital, Kalaari Capital",Private Equity,"12,000,000",Series B
 18/04/2015,Doormint,On-Demand Handyman Services,,Mumbai,Powai Lake Ventures,Seed Funding,N/A,
 20/04/2015,Vyomo,Beauty & Wellness Mobile App,,Gurgaon,YouWeCan Ventures,Seed Funding,N/A,
@@ -321,8 +316,7 @@ Mobile Handyman Services",,Mumbai,"Orios Venture Partners, Mayfield India",Seed 
 04/06/2015,Zopper,Hyperlocal Shopping App,,Mumbai,"Tiger Global, Nirvana Ventures Advisors",Private Equity,"20,000,000",Series C
 04/06/2015,Flipkart,eCommerce platform,,Bangalore,Morgan Stanley,Private Equity,"50,000,000",Late Stage
 05/06/2015,kWatt Solutions,Renewable energy solutions,,Mumbai,N/A,Seed Funding,"500,000",
-05/06/2015,Medwell Ventures,"Healthcare
-Service provider",,Bangalore,"Fidelity Growth Partners, Fidelity Biosciences",Private Equity,"10,000,000",Series A
+05/06/2015,Medwell Ventures,"HealthcareService provider",,Bangalore,"Fidelity Growth Partners, Fidelity Biosciences",Private Equity,"10,000,000",Series A
 05/06/2015,Jugnoo,Auto Rickshaw Based Services,,Chandigarh,"Snow Leopard, Paytm",Private Equity,"5,000,000",Series A
 08/06/2015,PosterGully,Artist / Designer Marketplace,,New Delhi,"Natarajan Iyer,Rajesh Sawhney, & other Angel investors.",Seed Funding,N/A,
 08/06/2015,Applied Solar Technologies,Off-grid Solar Power,,Mumbai,"Future Fund,Bessemer Venture, Capricorn Investment and IFC",Private Equity,"40,000,000",Series B
@@ -390,8 +384,7 @@ Service provider",,Bangalore,"Fidelity Growth Partners, Fidelity Biosciences",Pr
 01/07/2015,iDreamCareer,Ed-Tech Platform,,New Delhi,"ah! Ventures, Vivek Joshi, Mohit Satyanand & others",Seed Funding,N/A,
 01/07/2015,Ola Cabs,Cab rental Mobile app,,Bangalore,Ratan Tata,Private Equity,N/A,Personal Investment
 01/07/2015,NxtGen,IT infrastructure & Data Center services,,Bangalore,"IFC, Axon Partners, Intel Capital",Private Equity,"13,500,000",Series A
-02/07/2015,BankBazaar,Online Financial Services,,Chennai,"Amazon, Fidelity Growth Partners, Mousse Partners",Private Equity,"60,000,000","Series C
-(More here)"
+02/07/2015,BankBazaar,Online Financial Services,,Chennai,"Amazon, Fidelity Growth Partners, Mousse Partners",Private Equity,"60,000,000","Series C(More here)"
 02/07/2015,Gozoomo,Used Car Marketplace,,Bangalore,SAIF Partners,Private Equity,"5,000,000",Series A
 02/07/2015,Zenatix,Internet of Things platform,,Gurgaon,"Rajan Anandan, Kunal Bahl, Rohit Bansal, Rahul Khanna",Seed Funding,"161,000",
 03/07/2015,CultureAlley,Language Learning App,,Jaipur,Tiger Global,Private Equity,"6,500,000",Series A
@@ -784,8 +777,7 @@ Service provider",,Bangalore,"Fidelity Growth Partners, Fidelity Biosciences",Pr
 06/11/2015,Explara,Event Ticketing platform,,Pune,"Hyderabad Angels, Singapore Angel Network, Ness Wadia",Private Equity,"490,000",Pre-Series A
 06/11/2015,Soothe Healthcare,affordable Personal Healthcare Products,,Noida,Saina Nehwal,Seed Funding,N/A,2nd seed funding
 06/11/2015,Yuvi Hospitality,Premium dining Lounges & restaurants,,Gurgaon,Chandralekha Construction Pvt. Ltd.,Private Equity,"15,000,000",Series A
-09/11/2015,AppVirality,"Mobile Growth Hacking
-Platform",,Hyderabad,"Rajan Anandan, Mike Galgon, Ravi Gururaj, Ashim Mehra, Mohit Saxena, Internet Group, TNN Capital and others",Seed Funding,"500,000",Pre-Series A
+09/11/2015,AppVirality,"Mobile Growth HackingPlatform",,Hyderabad,"Rajan Anandan, Mike Galgon, Ravi Gururaj, Ashim Mehra, Mohit Saxena, Internet Group, TNN Capital and others",Seed Funding,"500,000",Pre-Series A
 09/11/2015,iStar Skill Development,Skill Training Startup,,Bangalore,"Michael & Susan Dell Foundation, Unitus Seed Fund",Private Equity,"1,500,000",Series A
 09/11/2015,BigStylist.com,Beauty and Wellness Marketplace,,Mumbai,Info Edge,Private Equity,"1,000,000",Pre-Series A
 09/11/2015,Zilingo,Marketplace App for Bangkok,,Bangalore/ Bangkok,"Sequoia India, BEENEXT Ventures, Kunal Shah & Sandeep Tandon",Private Equity,"1,900,000",Series A
@@ -1303,7 +1295,7 @@ Platform",,Hyderabad,"Rajan Anandan, Mike Galgon, Ravi Gururaj, Ashim Mehra, Moh
 26/04/2016,ClearTax,Consumer Internet,Online filing of Tax returns,Bangalore,"Max Levchin, Scott Banister",Private Equity,"1,300,000",
 26/04/2016,Roposo,eCommerce,Social Fashion ECommerce Discovery platform,Gurgaon,Bertelsmann India Investments,Private Equity,"15,000,000",
 27/04/2016,MilkBasket,Consumer Internet,Micro Grocery Delivery Platform,Gurgaon,EVC Ventures,Seed Funding,"500,000",
-27/04/2016,CareonGO,Consumer Internet,Online Pharmacy,"Farooq Oomerbhoy, Anupam Mittal, Anand Mittal, Ravi Garikipati, Vibhu Garg, Singapore Angel Network, Konglo Ventures",Seed Funding,N/A,,
+27/04/2016,CareonGO,Consumer Internet,Online Pharmacy,,"Farooq Oomerbhoy, Anupam Mittal, Anand Mittal, Ravi Garikipati, Vibhu Garg, Singapore Angel Network, Konglo Ventures",Seed Funding,N/A,
 27/04/2016,RailYatri,Consumer Internet,Train Related Information portal,Noida,"Nandan Nilekani, Helion Ventures, Omidyar Networks, Blume Ventures",Private Equity,N/A,
 27/04/2016,ICHR,Consumer Internet,Mobile based Children health Information app,New Delhi,Undisclosed,Seed Funding,"450,000",
 27/04/2016,Murgency,Consumer Internet,Medical Emergency Response App,Mumbai,Axilor Ventures,Private Equity,N/A,
